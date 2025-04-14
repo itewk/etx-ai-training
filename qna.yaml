@@ -138,5 +138,37 @@ seed_examples:
         answer: |
           As the capability to hold it until the morning or wake up overnight develops, it is their parent's responsibility to wake
           the child to pee until their body is ready to consolidate and hold through the night.
+  - context: |
+      If	 you're	 not	 sure	 whether	 or	 not	 you're	 dealing	 with	 behavior,	 look	 inside and	see	how	you're	feeling.	
+      If	you	are	feeling	sad	or	a	little	heartbroken	that	this isn't	going	as	you	intended,	chances	are	your	child	needs	more	
+      learning.	If	you feel	like	you	are	being	played,	if	you	feel	angry,	or	if	you	feel	like	strangling	your kid,	I'll	
+      bet	it's	behavior.	Most	times,	parents	have	a	really	good	sense	when	they are	 dealing	 with	 behavior	 but	 don't	 
+      do	 anything	 because	 they	 are	 terrified	 of 'traumatizing'	the	child.	Having	boundaries	and	following	through	is	
+      not	going to	traumatize	your	child	in	any	sense.
+
+      When	you	have	a	kid	who	you	know	is	playing	you,	the	absolute	best	thing	to do	is	give	a	small,	immediate,	appropriate	
+      consequence.	For	instance,	take	away the	 toy	 he	 was	 playing	 with	 when	 he	 wet	 his	 pants,	 or	 take	 him	 out	 
+      of	 the activity	 in	 which	 he	 was	 engaged.	 Time-outs	 are	 usually	 not	 effective	 for 'accidents,'	nor	are	
+      longer-term	things	like	saying	he	can't	go	to	swim	or	dance class.	If	he	has	an	accident	in	the	morning,	it	
+      doesn't	work	to	threaten	to	take away	 dessert	 after	 dinner.	 Toddlers	 just	 don't	 have	 that	 extended	 a	 
+      thought process.	This	is	why	sticker	charts	are	useless.	Toddlers	don't	have	the	thought process	 to	 say,	 'Wow.	 
+      I	 have	 six	 stickers;	 one	 more	 and	 I'll	 have	 a	 week	 of staying	dry!'
+
+    questions_and_answers:
+      - question: |
+          How can a parent differentiate between potty training behavior issues and a need for more learning?
+        answer: |
+          A parent should examine their own feelings. Sadness or heartbreak likely indicates the child needs more learning time, 
+          while feeling played or angry suggests it's a behavior issue[.
+      - question: |
+          If a child is exhibiting behavioral issues ("playing you") during potty training, what is recommended?
+        answer: |
+          The recommended action is to give a small, immediate, and appropriate consequence, such as taking away the current toy or 
+          removing the child from their current activity.
+      - question: |
+          Are long-term consequences or sticker charts effective for toddlers during potty training?
+        answer: |
+          No, long-term consequences like taking away dessert for a morning accident or using sticker charts are generally ineffective 
+          because toddlers lack the extended thought process to connect the behavior with the distant consequence or reward.
 document_outline: |
   Book geared for modern parents on potty training, overcoming obstacles and approaching the situation in the best way.
