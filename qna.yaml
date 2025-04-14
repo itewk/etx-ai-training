@@ -1,0 +1,33 @@
+version: 3
+domain: pooping
+created_by: ETX team 2
+seed_examples:
+  - context: |
+      False. We've	sort	of	covered	the	idea	of	'waiting	till	they're	ready,'	but	let's	give it	some	more	thought.	
+      What	does	a	parent	mean	by,	'I'm	going	to	wait	till	he gives	me	signals	that	he's	ready'?	What	signals?	
+      Some	not-yet-potty-trained	kids start	 staying	 dry	 during	 naps,	 or	 wake	 up	 dry	 in	 the	 morning,	 but	 
+      not	 usually. Some	kids	show	an	interest	in	the	toilet,	but	others	don't	ever	show	an	interest. Are	 you	 
+      waiting	 for	 your	 child	 to	 wave	 a	 flag	 that	 says,	 'I	 have	 to	 pee'? Remember,	all	your	child	has	known	
+      is	a	diaper.	What	signal	could	they	possibly give	when	they	don't	know	what	it	is	they	should	be	signaling?	
+      Just	think	about it.	 How	do	you	signal	for	a	brand-new	action?	Once	potty	training	has	begun, sure,	your	
+      child	will	have	signals.	For	instance,	she	might	do	a	pee-pee	dance. This	could	be	the	classic	hopping	from	foot	
+      to	foot.	Other	'dances'	or	signals could	include	staying	completely	still.	You	might	notice	that	she	looks	antsy	
+      or twitchy.	Regardless	of	your	individual	child's	signals	that	she	has	to	pee,	they develop	once	you've begun 
+      potty	training,	not	before.	To	wait	for	a	signal	from your	child	that	he	is	ready	to	begin	potty	training	is	
+      inviting	trouble.
+    questions_and_answers:
+      - question: |
+          When should the signals be developed?
+        answer: |
+          The signals that a child needs to pee are developed once you have begun potty training, and not before starting.  
+      - question: |
+          What is one reason why a child might not be able to give you signals?
+        answer: |
+          All your child has known is a diaper, so it isn't conveivable that they could provide a signal when they don't 
+          know what it is that they should be signaling.
+      - question: |
+          What is one signal once the child has started potty training?
+        answer: |
+          One signal could be hopping from foot to foot, staying completely still, or looking antsy or twitchy.
+document_outline: |
+  Book geared for modern parents on potty training, overcoming obstacles and approaching the situation in the best way.
