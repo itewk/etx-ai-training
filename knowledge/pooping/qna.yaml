@@ -208,6 +208,6 @@ document_outline: |
 
 document:
   repo: https://github.com/itewk/etx-ai-training
-  commit: f1b9202aa8cd91107bb540a8d6b9118bb9178a72
+  commit: d3578399e050381bfb7769b3cf52b39df68fc167
   patterns:
-    - knowledge.md
+    - knowledge/pooping/source.md
