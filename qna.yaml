@@ -29,5 +29,39 @@ seed_examples:
           What is one signal once the child has started potty training?
         answer: |
           One signal could be hopping from foot to foot, staying completely still, or looking antsy or twitchy.
+  - context: |
+      A	very	common	complaint	I	hear	a	few	days	into	potty	training	is	something along	the	lines	of,	'He's	doing	fine	
+      but	only	when	we	tell	him	to	go	.	.	.	is	this kid	EVER	going	to	tell	us	when	he	has	to	go??'
+
+      My	answer	is:	OF	COURSE	he	will!
+
+      But	right	now,	in	the	early	stages	of	potty	training,	your	child	needs	you.	It still	 counts	 if	 they	 pee	 
+      in	 the	 potty	 because	 you	 tell	 them	 to.	 Like	 any	 other learning	 they	 have	 done	 or	 will	 do,	 
+      they	 need	 you-the	 parent-as	 a	 crutch. Think	of	your	child	learning	to	walk.	They	had	to	hold	your	
+      hands	at	first,	both for	the	physical	support	and	the	comfort.	Then	they	took	a	few	tentative	steps away	
+      from	you	but	quickly	needed	your	hand	again.	In	strange	environments, they	 hold	 your	 hand	 to	 tug	 you	 
+      along	 to	 where	 they	 want	 to	 investigate. Prompting	is	holding	their	hand.
+
+      Some	 kids might immediately	 start	 to	 self-initiate.	 Most	 kids	 will	 build	 it slowly;	 usually	 about	 
+      three	 weeks	 into	 the	 process,	 you	 can	 start	 counting	 on self-initiating.	Until	then,	it	will	be	a	
+      few	days	of	you	always	prompting.	Then there	will	be	a	few	days	during	which	they	tell	you	maybe	one	or	
+      two	times	that they	have	to	go.	Then,	every	once	in	a	while,	they	will	sit	on	their	own	and	do their	business.	
+      It	will	continue	to	build.	And	in	strange	situations,	you	may	have to	 do	 some	 more	hand	holding.	And	one	
+      day	you	will	wake	up	and	not	have potty	training	on	the	brain.	I	swear	to	God,	this	day	will	come.
+    questions_and_answers:
+      - question: |
+          What is an analogy to how the child is learning to potty train?
+        answer: |
+          This is analogous to the child learning how to walk.  They had to hold your hands at first, for both support and comfort, 
+          then taking steps, but relying on your hand.  Prompting is analogous to holding their hand in this context. 
+      - question: |
+          How many kids would start to self-initiate?
+        answer: |
+          Some kids might immediately start to self-initiate, mostly about three weeks into the process you can expect to count on 
+          them to self-initiate.
+      - question: |
+          Will the day ever come when the child will be potty trained?
+        answer: |
+          One day you will wake up and not have potty training on the brain.  I swear to God, this day will come.
 document_outline: |
   Book geared for modern parents on potty training, overcoming obstacles and approaching the situation in the best way.
