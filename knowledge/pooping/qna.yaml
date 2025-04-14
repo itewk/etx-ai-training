@@ -3,17 +3,17 @@ domain: pooping
 created_by: ETX team 2
 seed_examples:
   - context: |
-      False. We've	sort	of	covered	the	idea	of	'waiting	till	they're	ready,'	but	let's	give it	some	more	thought.	
-      What	does	a	parent	mean	by,	'I'm	going	to	wait	till	he gives	me	signals	that	he's	ready'?	What	signals?	
-      Some	not-yet-potty-trained	kids start	 staying	 dry	 during	 naps,	 or	 wake	 up	 dry	 in	 the	 morning,	 but	 
-      not	 usually. Some	kids	show	an	interest	in	the	toilet,	but	others	don't	ever	show	an	interest. Are	 you	 
-      waiting	 for	 your	 child	 to	 wave	 a	 flag	 that	 says,	 'I	 have	 to	 pee'? Remember,	all	your	child	has	known	
-      is	a	diaper.	What	signal	could	they	possibly give	when	they	don't	know	what	it	is	they	should	be	signaling?	
-      Just	think	about it.	 How	do	you	signal	for	a	brand-new	action?	Once	potty	training	has	begun, sure,	your	
-      child	will	have	signals.	For	instance,	she	might	do	a	pee-pee	dance. This	could	be	the	classic	hopping	from	foot	
-      to	foot.	Other	'dances'	or	signals could	include	staying	completely	still.	You	might	notice	that	she	looks	antsy	
-      or twitchy.	Regardless	of	your	individual	child's	signals	that	she	has	to	pee,	they develop	once	you've begun 
-      potty	training,	not	before.	To	wait	for	a	signal	from your	child	that	he	is	ready	to	begin	potty	training	is	
+      False. We've	sort	of	covered	the	idea	of	'waiting	till	they're	ready,'	but	let's	give it	some	more	thought.
+      What	does	a	parent	mean	by,	'I'm	going	to	wait	till	he gives	me	signals	that	he's	ready'?	What	signals?
+      Some	not-yet-potty-trained	kids start	 staying	 dry	 during	 naps,	 or	 wake	 up	 dry	 in	 the	 morning,	 but
+      not	 usually. Some	kids	show	an	interest	in	the	toilet,	but	others	don't	ever	show	an	interest. Are	 you
+      waiting	 for	 your	 child	 to	 wave	 a	 flag	 that	 says,	 'I	 have	 to	 pee'? Remember,	all	your	child	has	known
+      is	a	diaper.	What	signal	could	they	possibly give	when	they	don't	know	what	it	is	they	should	be	signaling?
+      Just	think	about it.	 How	do	you	signal	for	a	brand-new	action?	Once	potty	training	has	begun, sure,	your
+      child	will	have	signals.	For	instance,	she	might	do	a	pee-pee	dance. This	could	be	the	classic	hopping	from	foot
+      to	foot.	Other	'dances'	or	signals could	include	staying	completely	still.	You	might	notice	that	she	looks	antsy
+      or twitchy.	Regardless	of	your	individual	child's	signals	that	she	has	to	pee,	they develop	once	you've begun
+      potty	training,	not	before.	To	wait	for	a	signal	from your	child	that	he	is	ready	to	begin	potty	training	is
       inviting	trouble.
     questions_and_answers:
       - question: |
@@ -23,41 +23,41 @@ seed_examples:
       - question: |
           What is one reason why a child might not be able to give you signals?
         answer: |
-          All your child has known is a diaper, so it isn't conveivable that they could provide a signal when they don't 
+          All your child has known is a diaper, so it isn't conveivable that they could provide a signal when they don't
           know what it is that they should be signaling.
       - question: |
           What is one signal once the child has started potty training?
         answer: |
           One signal could be hopping from foot to foot, staying completely still, or looking antsy or twitchy.
   - context: |
-      A	very	common	complaint	I	hear	a	few	days	into	potty	training	is	something along	the	lines	of,	'He's	doing	fine	
+      A	very	common	complaint	I	hear	a	few	days	into	potty	training	is	something along	the	lines	of,	'He's	doing	fine
       but	only	when	we	tell	him	to	go	.	.	.	is	this kid	EVER	going	to	tell	us	when	he	has	to	go??'
 
       My	answer	is:	OF	COURSE	he	will!
 
-      But	right	now,	in	the	early	stages	of	potty	training,	your	child	needs	you.	It still	 counts	 if	 they	 pee	 
-      in	 the	 potty	 because	 you	 tell	 them	 to.	 Like	 any	 other learning	 they	 have	 done	 or	 will	 do,	 
-      they	 need	 you-the	 parent-as	 a	 crutch. Think	of	your	child	learning	to	walk.	They	had	to	hold	your	
-      hands	at	first,	both for	the	physical	support	and	the	comfort.	Then	they	took	a	few	tentative	steps away	
-      from	you	but	quickly	needed	your	hand	again.	In	strange	environments, they	 hold	 your	 hand	 to	 tug	 you	 
+      But	right	now,	in	the	early	stages	of	potty	training,	your	child	needs	you.	It still	 counts	 if	 they	 pee
+      in	 the	 potty	 because	 you	 tell	 them	 to.	 Like	 any	 other learning	 they	 have	 done	 or	 will	 do,
+      they	 need	 you-the	 parent-as	 a	 crutch. Think	of	your	child	learning	to	walk.	They	had	to	hold	your
+      hands	at	first,	both for	the	physical	support	and	the	comfort.	Then	they	took	a	few	tentative	steps away
+      from	you	but	quickly	needed	your	hand	again.	In	strange	environments, they	 hold	 your	 hand	 to	 tug	 you
       along	 to	 where	 they	 want	 to	 investigate. Prompting	is	holding	their	hand.
 
-      Some	 kids might immediately	 start	 to	 self-initiate.	 Most	 kids	 will	 build	 it slowly;	 usually	 about	 
-      three	 weeks	 into	 the	 process,	 you	 can	 start	 counting	 on self-initiating.	Until	then,	it	will	be	a	
-      few	days	of	you	always	prompting.	Then there	will	be	a	few	days	during	which	they	tell	you	maybe	one	or	
-      two	times	that they	have	to	go.	Then,	every	once	in	a	while,	they	will	sit	on	their	own	and	do their	business.	
-      It	will	continue	to	build.	And	in	strange	situations,	you	may	have to	 do	 some	 more	hand	holding.	And	one	
+      Some	 kids might immediately	 start	 to	 self-initiate.	 Most	 kids	 will	 build	 it slowly;	 usually	 about
+      three	 weeks	 into	 the	 process,	 you	 can	 start	 counting	 on self-initiating.	Until	then,	it	will	be	a
+      few	days	of	you	always	prompting.	Then there	will	be	a	few	days	during	which	they	tell	you	maybe	one	or
+      two	times	that they	have	to	go.	Then,	every	once	in	a	while,	they	will	sit	on	their	own	and	do their	business.
+      It	will	continue	to	build.	And	in	strange	situations,	you	may	have to	 do	 some	 more	hand	holding.	And	one
       day	you	will	wake	up	and	not	have potty	training	on	the	brain.	I	swear	to	God,	this	day	will	come.
     questions_and_answers:
       - question: |
           What is an analogy to how the child is learning to potty train?
         answer: |
-          This is analogous to the child learning how to walk.  They had to hold your hands at first, for both support and comfort, 
+          This is analogous to the child learning how to walk.  They had to hold your hands at first, for both support and comfort,
           then taking steps, but relying on your hand.  Prompting is analogous to holding their hand in this context.
       - question: |
           How many kids would start to self-initiate?
         answer: |
-          Some kids might immediately start to self-initiate, mostly about three weeks into the process you can expect to count on 
+          Some kids might immediately start to self-initiate, mostly about three weeks into the process you can expect to count on
           them to self-initiate.
       - question: |
           Will the day ever come when the child will be potty trained?
@@ -68,26 +68,26 @@ seed_examples:
 
       Yes.	Or	maybe	no.	How's	that	for	a	solid	answer?
 
-      Many,	many	children	will	start	staying	dry	on	their	own	as	they	get	better and	better	at	holding	and	
-      consolidating	during	the	day.	A	really	good	indicator that	a	child	is	ready	for	night	training	is	when	
-      they	start	staying	dry	for	their nap. However,	this	isn't	true	for	every	kid. So,	don't	wait	for	that	necessarily,	
+      Many,	many	children	will	start	staying	dry	on	their	own	as	they	get	better and	better	at	holding	and
+      consolidating	during	the	day.	A	really	good	indicator that	a	child	is	ready	for	night	training	is	when
+      they	start	staying	dry	for	their nap. However,	this	isn't	true	for	every	kid. So,	don't	wait	for	that	necessarily,
       but should	your	child	start	staying	dry	during	naps,	go	for	it!
 
-      On	that	note,	there	is	no	such	thing	as just nap	training.	You	can	always	try to	go	with	a	diaper	
-      for	nap,	but	there	is nothing we	can	do	to	assist	the	child	(i.e., you	can't	wake	a	child	midnap	to	help	
+      On	that	note,	there	is	no	such	thing	as just nap	training.	You	can	always	try to	go	with	a	diaper
+      for	nap,	but	there	is nothing we	can	do	to	assist	the	child	(i.e., you	can't	wake	a	child	midnap	to	help
       them	empty	their	bladder).
 
-      It's	always	best	to	ditch	all	diapers	as	soon	as	you	are	able.	But	night	training can	 be	 wonky	 
-      because	 there really is	 an	 issue	 of	 whether	 or	 not	 the	 child's bladder	is	able	to	hold	and	
+      It's	always	best	to	ditch	all	diapers	as	soon	as	you	are	able.	But	night	training can	 be	 wonky
+      because	 there really is	 an	 issue	 of	 whether	 or	 not	 the	 child's bladder	is	able	to	hold	and
       consolidate	for	such	a	long	time.
 
       My	bottom	line	is	that	night	training	can	be	on	the	back	burner	until	around three	to	three	and	a	h
-      alf.	If	it	hasn't	naturally	occurred	by	then, you	must	attend to	it .	The	bladder	is	being	developed	at	
-      this	age,	and	if	it	develops	fully	without the	practice	of	holding	and	consolidating,	those	muscles	will	
+      alf.	If	it	hasn't	naturally	occurred	by	then, you	must	attend to	it .	The	bladder	is	being	developed	at
+      this	age,	and	if	it	develops	fully	without the	practice	of	holding	and	consolidating,	those	muscles	will
       atrophy,	and	you will	struggle	indefinitely	with	bedwetting.
 
-      I	can	in	no	way	know	for	certain	what	is	true	for	every	single	child	out	there. I	just	can't.	But	I	can	
-      see	trends	in	the	thousands	of	kids	I	have	worked	with.	A very	real	and	serious	trend	I	see	is	that	once	
+      I	can	in	no	way	know	for	certain	what	is	true	for	every	single	child	out	there. I	just	can't.	But	I	can
+      see	trends	in	the	thousands	of	kids	I	have	worked	with.	A very	real	and	serious	trend	I	see	is	that	once
       a	child	is	past	the	age	of	four,	night training	becomes	near	impossible.
     questions_and_answers:
       - question: |
@@ -98,27 +98,27 @@ seed_examples:
       - question: |
           What is nap training?
         answer: |
-          There is no such thing as nap training.  You can always try to go witha  diaper for nap, but there is nothing we can do to 
+          There is no such thing as nap training.  You can always try to go witha  diaper for nap, but there is nothing we can do to
           assist the child.
       - question: |
           When is it best to ditch all diapers?
         answer: |
-          It's always best to ditch all diapers as soon as you are able.  Night training can be wonky, though, because there 
+          It's always best to ditch all diapers as soon as you are able.  Night training can be wonky, though, because there
           really is an issue of whether or not the child's bladder is able to hold and consolidate for such a long time.
   - context: |
       ## Nighttime	Accidents
 
-      Nighttime	 accidents	 are	 inevitable.	 Some	 nights	 your	 child	 might	 drink	 too much	 fluid,	 and	 others,	 
-      you	 might	 simply	 forget	 to	 wake	 (or	 sleep	 through waking)	your	child.	As	these	accidents	are	inevitable,	
-      I've	found	a	pretty	good way	to	deal	with	them:	while	your	child	is	going	through	the	transition	from diapers	
-      to	diaperless	at	night,	keep	an	extra	pair	of	pajamas	and	a	thick	fleece blanket	near	the	bed.	Should	your	
-      child	have	an	accident,	change	her	pajamas and	be	sure	to	ask	or	sit	her	on	the	potty	in	case	she	has	more	
-      pee-often	she won't	have	emptied	her	bladder	completely.	Instead	of	changing	sheets	in	the middle	 of	 the	 night,	 
-      simply	 place	 the	 fleece	 blanket	 over	 the	 wet	 sheet.	 The fleece	will	keep	the	pee	from	soaking	her	dry	
-      pajamas.	This	may	sound	gross	to some,	 but	 it	 sure	 beats	 having	 to	 change	 the	 sheets	 when	 you're	 both	 
-      halfawake.	Of	course,	change	the	sheets	in	the	morning.	One	more	thing:	nighttime accidents	are	all	on	you.	The	
-      capability	to	hold	the	pee	until	morning	or	to	be able	to	wake	herself	up	to	pee	develops	over	time,	and	if	
-      your	child	can't	do	it yet,	she	can't	do	it	yet-you	have	to	wake	her	to	pee	until	her	body	is	ready	to consolidate	
+      Nighttime	 accidents	 are	 inevitable.	 Some	 nights	 your	 child	 might	 drink	 too much	 fluid,	 and	 others,
+      you	 might	 simply	 forget	 to	 wake	 (or	 sleep	 through waking)	your	child.	As	these	accidents	are	inevitable,
+      I've	found	a	pretty	good way	to	deal	with	them:	while	your	child	is	going	through	the	transition	from diapers
+      to	diaperless	at	night,	keep	an	extra	pair	of	pajamas	and	a	thick	fleece blanket	near	the	bed.	Should	your
+      child	have	an	accident,	change	her	pajamas and	be	sure	to	ask	or	sit	her	on	the	potty	in	case	she	has	more
+      pee-often	she won't	have	emptied	her	bladder	completely.	Instead	of	changing	sheets	in	the middle	 of	 the	 night,
+      simply	 place	 the	 fleece	 blanket	 over	 the	 wet	 sheet.	 The fleece	will	keep	the	pee	from	soaking	her	dry
+      pajamas.	This	may	sound	gross	to some,	 but	 it	 sure	 beats	 having	 to	 change	 the	 sheets	 when	 you're	 both
+      halfawake.	Of	course,	change	the	sheets	in	the	morning.	One	more	thing:	nighttime accidents	are	all	on	you.	The
+      capability	to	hold	the	pee	until	morning	or	to	be able	to	wake	herself	up	to	pee	develops	over	time,	and	if
+      your	child	can't	do	it yet,	she	can't	do	it	yet-you	have	to	wake	her	to	pee	until	her	body	is	ready	to consolidate
       and	hold	through	the	night.
 
     questions_and_answers:
@@ -131,7 +131,7 @@ seed_examples:
           What is a good way to deal with nighttime accidents?
         answer: |
           A good way to deal with these is while the child is going through the transition from diapers to diaperless at night,
-          keep an extra pair of pajamas and a thick fleece blanket near the bed.  Should the child have an accident, change the 
+          keep an extra pair of pajamas and a thick fleece blanket near the bed.  Should the child have an accident, change the
           pajamas and be sure to ask or sit on the potty.  And instead of changing sheets, place the fleece blanket over the wet sheet.
       - question: |
           How much of the nighttime accidents are in the hands of the parents?
@@ -139,36 +139,36 @@ seed_examples:
           As the capability to hold it until the morning or wake up overnight develops, it is their parent's responsibility to wake
           the child to pee until their body is ready to consolidate and hold through the night.
   - context: |
-      If	 you're	 not	 sure	 whether	 or	 not	 you're	 dealing	 with	 behavior,	 look	 inside and	see	how	you're	feeling.	
-      If	you	are	feeling	sad	or	a	little	heartbroken	that	this isn't	going	as	you	intended,	chances	are	your	child	needs	more	
-      learning.	If	you feel	like	you	are	being	played,	if	you	feel	angry,	or	if	you	feel	like	strangling	your kid,	I'll	
-      bet	it's	behavior.	Most	times,	parents	have	a	really	good	sense	when	they are	 dealing	 with	 behavior	 but	 don't	 
-      do	 anything	 because	 they	 are	 terrified	 of 'traumatizing'	the	child.	Having	boundaries	and	following	through	is	
+      If	 you're	 not	 sure	 whether	 or	 not	 you're	 dealing	 with	 behavior,	 look	 inside and	see	how	you're	feeling.
+      If	you	are	feeling	sad	or	a	little	heartbroken	that	this isn't	going	as	you	intended,	chances	are	your	child	needs	more
+      learning.	If	you feel	like	you	are	being	played,	if	you	feel	angry,	or	if	you	feel	like	strangling	your kid,	I'll
+      bet	it's	behavior.	Most	times,	parents	have	a	really	good	sense	when	they are	 dealing	 with	 behavior	 but	 don't
+      do	 anything	 because	 they	 are	 terrified	 of 'traumatizing'	the	child.	Having	boundaries	and	following	through	is
       not	going to	traumatize	your	child	in	any	sense.
 
-      When	you	have	a	kid	who	you	know	is	playing	you,	the	absolute	best	thing	to do	is	give	a	small,	immediate,	appropriate	
-      consequence.	For	instance,	take	away the	 toy	 he	 was	 playing	 with	 when	 he	 wet	 his	 pants,	 or	 take	 him	 out	 
-      of	 the activity	 in	 which	 he	 was	 engaged.	 Time-outs	 are	 usually	 not	 effective	 for 'accidents,'	nor	are	
-      longer-term	things	like	saying	he	can't	go	to	swim	or	dance class.	If	he	has	an	accident	in	the	morning,	it	
-      doesn't	work	to	threaten	to	take away	 dessert	 after	 dinner.	 Toddlers	 just	 don't	 have	 that	 extended	 a	 
-      thought process.	This	is	why	sticker	charts	are	useless.	Toddlers	don't	have	the	thought process	 to	 say,	 'Wow.	 
+      When	you	have	a	kid	who	you	know	is	playing	you,	the	absolute	best	thing	to do	is	give	a	small,	immediate,	appropriate
+      consequence.	For	instance,	take	away the	 toy	 he	 was	 playing	 with	 when	 he	 wet	 his	 pants,	 or	 take	 him	 out
+      of	 the activity	 in	 which	 he	 was	 engaged.	 Time-outs	 are	 usually	 not	 effective	 for 'accidents,'	nor	are
+      longer-term	things	like	saying	he	can't	go	to	swim	or	dance class.	If	he	has	an	accident	in	the	morning,	it
+      doesn't	work	to	threaten	to	take away	 dessert	 after	 dinner.	 Toddlers	 just	 don't	 have	 that	 extended	 a
+      thought process.	This	is	why	sticker	charts	are	useless.	Toddlers	don't	have	the	thought process	 to	 say,	 'Wow.
       I	 have	 six	 stickers;	 one	 more	 and	 I'll	 have	 a	 week	 of staying	dry!'
 
     questions_and_answers:
       - question: |
           How can a parent differentiate between potty training behavior issues and a need for more learning?
         answer: |
-          A parent should examine their own feelings. Sadness or heartbreak likely indicates the child needs more learning time, 
+          A parent should examine their own feelings. Sadness or heartbreak likely indicates the child needs more learning time,
           while feeling played or angry suggests it's a behavior issue[.
       - question: |
           If a child is exhibiting behavioral issues ("playing you") during potty training, what is recommended?
         answer: |
-          The recommended action is to give a small, immediate, and appropriate consequence, such as taking away the current toy or 
+          The recommended action is to give a small, immediate, and appropriate consequence, such as taking away the current toy or
           removing the child from their current activity.
       - question: |
           Are long-term consequences or sticker charts effective for toddlers during potty training?
         answer: |
-          No, long-term consequences like taking away dessert for a morning accident or using sticker charts are generally ineffective 
+          No, long-term consequences like taking away dessert for a morning accident or using sticker charts are generally ineffective
           because toddlers lack the extended thought process to connect the behavior with the distant consequence or reward.
 
   - context: |
