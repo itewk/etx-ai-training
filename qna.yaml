@@ -63,5 +63,80 @@ seed_examples:
           Will the day ever come when the child will be potty trained?
         answer: |
           One day you will wake up and not have potty training on the brain.  I swear to God, this day will come.
+  - context: |
+      ## Is	Night	Training	Necessary?
+
+      Yes.	Or	maybe	no.	How's	that	for	a	solid	answer?
+
+      Many,	many	children	will	start	staying	dry	on	their	own	as	they	get	better and	better	at	holding	and	
+      consolidating	during	the	day.	A	really	good	indicator that	a	child	is	ready	for	night	training	is	when	
+      they	start	staying	dry	for	their nap. However,	this	isn't	true	for	every	kid. So,	don't	wait	for	that	necessarily,	
+      but should	your	child	start	staying	dry	during	naps,	go	for	it!
+
+      On	that	note,	there	is	no	such	thing	as just nap	training.	You	can	always	try to	go	with	a	diaper	
+      for	nap,	but	there	is nothing we	can	do	to	assist	the	child	(i.e., you	can't	wake	a	child	midnap	to	help	
+      them	empty	their	bladder).
+
+      It's	always	best	to	ditch	all	diapers	as	soon	as	you	are	able.	But	night	training can	 be	 wonky	 
+      because	 there really is	 an	 issue	 of	 whether	 or	 not	 the	 child's bladder	is	able	to	hold	and	
+      consolidate	for	such	a	long	time.
+
+      My	bottom	line	is	that	night	training	can	be	on	the	back	burner	until	around three	to	three	and	a	h
+      alf.	If	it	hasn't	naturally	occurred	by	then, you	must	attend to	it .	The	bladder	is	being	developed	at	
+      this	age,	and	if	it	develops	fully	without the	practice	of	holding	and	consolidating,	those	muscles	will	
+      atrophy,	and	you will	struggle	indefinitely	with	bedwetting.
+
+      I	can	in	no	way	know	for	certain	what	is	true	for	every	single	child	out	there. I	just	can't.	But	I	can	
+      see	trends	in	the	thousands	of	kids	I	have	worked	with.	A very	real	and	serious	trend	I	see	is	that	once	
+      a	child	is	past	the	age	of	four,	night training	becomes	near	impossible.
+    questions_and_answers:
+      - question: |
+          What is indicative of a child being ready for night training?
+        answer: |
+          A really good indicator that a child is ready for night training is when they stsart staying dry for their nap.  However,
+          this isn't true for every kid.  
+      - question: |
+          What is nap training?
+        answer: |
+          There is no such thing as nap training.  You can always try to go witha  diaper for nap, but there is nothing we can do to 
+          assist the child.
+      - question: |
+          When is it best to ditch all diapers?
+        answer: |
+          It's always best to ditch all diapers as soon as you are able.  Night training can be wonky, though, because there 
+          really is an issue of whether or not the child's bladder is able to hold and consolidate for such a long time.
+  - context: |
+      ## Nighttime	Accidents
+
+      Nighttime	 accidents	 are	 inevitable.	 Some	 nights	 your	 child	 might	 drink	 too much	 fluid,	 and	 others,	 
+      you	 might	 simply	 forget	 to	 wake	 (or	 sleep	 through waking)	your	child.	As	these	accidents	are	inevitable,	
+      I've	found	a	pretty	good way	to	deal	with	them:	while	your	child	is	going	through	the	transition	from diapers	
+      to	diaperless	at	night,	keep	an	extra	pair	of	pajamas	and	a	thick	fleece blanket	near	the	bed.	Should	your	
+      child	have	an	accident,	change	her	pajamas and	be	sure	to	ask	or	sit	her	on	the	potty	in	case	she	has	more	
+      pee-often	she won't	have	emptied	her	bladder	completely.	Instead	of	changing	sheets	in	the middle	 of	 the	 night,	 
+      simply	 place	 the	 fleece	 blanket	 over	 the	 wet	 sheet.	 The fleece	will	keep	the	pee	from	soaking	her	dry	
+      pajamas.	This	may	sound	gross	to some,	 but	 it	 sure	 beats	 having	 to	 change	 the	 sheets	 when	 you're	 both	 
+      halfawake.	Of	course,	change	the	sheets	in	the	morning.	One	more	thing:	nighttime accidents	are	all	on	you.	The	
+      capability	to	hold	the	pee	until	morning	or	to	be able	to	wake	herself	up	to	pee	develops	over	time,	and	if	
+      your	child	can't	do	it yet,	she	can't	do	it	yet-you	have	to	wake	her	to	pee	until	her	body	is	ready	to consolidate	
+      and	hold	through	the	night.
+
+    questions_and_answers:
+      - question: |
+          Could you explain whether or not nighttime accidents are inevitable and why?
+        answer: |
+          Nighttime accidents are inevitable as some nights the child might drink too much fluid, and others, you might simply
+          forget to wake your child.  
+      - question: |
+          What is a good way to deal with nighttime accidents?
+        answer: |
+          A good way to deal with these is while the child is going through the transition from diapers to diaperless at night,
+          keep an extra pair of pajamas and a thick fleece blanket near the bed.  Should the child have an accident, change the 
+          pajamas and be sure to ask or sit on the potty.  And instead of changing sheets, place the fleece blanket over the wet sheet.
+      - question: |
+          How much of the nighttime accidents are in the hands of the parents?
+        answer: |
+          As the capability to hold it until the morning or wake up overnight develops, it is their parent's responsibility to wake
+          the child to pee until their body is ready to consolidate and hold through the night.
 document_outline: |
   Book geared for modern parents on potty training, overcoming obstacles and approaching the situation in the best way.
