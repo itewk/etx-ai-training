@@ -170,5 +170,38 @@ seed_examples:
         answer: |
           No, long-term consequences like taking away dessert for a morning accident or using sticker charts are generally ineffective 
           because toddlers lack the extended thought process to connect the behavior with the distant consequence or reward.
+
+  - context: |
+      Pooping	itself	is	a	very	primal	function.	Our	poop	is	a	piece	of	us-literallyand	releasing	it	requires	privacy	which,
+      if	you	think	about	it,	a	diaper	affords. When	a	child's	bum	is	covered,	it	feels	concealed	and	private.	It's
+      keeping	the bum	out	in	the	air,	which	we	do	when	we	potty	train,	that	makes	pooping	feel public	 and	 uncomfortable
+      at	 first.	 As	 adults,	 we	 usually	 go	 in	 a	 small	 room dedicated	 to	 pooping	 and	 close	 the	 door.
+      We	 don't	 take	 kindly	 to	 intruders, either.	Our	children	have	those	same	desires.	If	your	child	resists	pooping,
+      the very	 first	 thing	 you	 should	 offer	 is	 privacy.	 The	 level	 of	 privacy	 you	 can	 give depends	on
+      the	age	of	the	child.	Age	also	tends	to	determine	how	much	privacy your	child	needs.	Kids	under	the	age	of
+      twenty-four	months	generally	need	less. From	twenty-four	months	on,	each	passing	month	will	bring	your	child	more self-awareness.
+      More	awareness	usually	means	they	need	more	privacy.	Offering your	child	privacy	can	be	as	simple	as	'forgetting'
+      something	in	the	other	room once	 your	 child	 is	 situated	 on	 the	 potty.	 Alternately,	 you	 can	 close	 the bathroom	door.
+
+      Simply	 put,	 too	 often,	 especially	 during	 potty	 training,	 there's	 a	 glaring spotlight	on	a	very	personal	function.
+      But	again,	that's	just	one	little	piece	of the	pooping	puzzle.
+
+    questions_and_answers:
+    - question: |
+        Why do children need privacy when pooping?
+      answer: |
+        Children need privacy when pooping because it makes them feel comfortable and secure,
+        similar to how adults prefer a private bathroom for this function. The act of exposing the
+        bottom for potty training can initially make pooping feel public and uncomfortable.
+    - question: |
+        How does age affect a child's need for privacy during potty training?
+      answer: |
+        As children grow older, they become more self-aware, which typically means they require more privacy.
+        Generally, children under 24 months old need less privacy, while each passing month after that may bring an increased need for seclusion.
+    - question: |
+        What are some ways to provide privacy for a child during potty training?
+      answer: |
+        Privacy can be offered in various ways depending on the child's age. For younger children, you might "forget" something
+
 document_outline: |
   Book geared for modern parents on potty training, overcoming obstacles and approaching the situation in the best way.
