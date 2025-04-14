@@ -19,7 +19,7 @@ seed_examples:
       - question: |
           When should the signals be developed?
         answer: |
-          The signals that a child needs to pee are developed once you have begun potty training, and not before starting.  
+          The signals that a child needs to pee are developed once you have begun potty training, and not before starting.
       - question: |
           What is one reason why a child might not be able to give you signals?
         answer: |
@@ -53,7 +53,7 @@ seed_examples:
           What is an analogy to how the child is learning to potty train?
         answer: |
           This is analogous to the child learning how to walk.  They had to hold your hands at first, for both support and comfort, 
-          then taking steps, but relying on your hand.  Prompting is analogous to holding their hand in this context. 
+          then taking steps, but relying on your hand.  Prompting is analogous to holding their hand in this context.
       - question: |
           How many kids would start to self-initiate?
         answer: |
@@ -94,7 +94,7 @@ seed_examples:
           What is indicative of a child being ready for night training?
         answer: |
           A really good indicator that a child is ready for night training is when they stsart staying dry for their nap.  However,
-          this isn't true for every kid.  
+          this isn't true for every kid.
       - question: |
           What is nap training?
         answer: |
@@ -126,7 +126,7 @@ seed_examples:
           Could you explain whether or not nighttime accidents are inevitable and why?
         answer: |
           Nighttime accidents are inevitable as some nights the child might drink too much fluid, and others, you might simply
-          forget to wake your child.  
+          forget to wake your child.
       - question: |
           What is a good way to deal with nighttime accidents?
         answer: |
@@ -187,21 +187,21 @@ seed_examples:
       But	again,	that's	just	one	little	piece	of the	pooping	puzzle.
 
     questions_and_answers:
-    - question: |
-        Why do children need privacy when pooping?
-      answer: |
-        Children need privacy when pooping because it makes them feel comfortable and secure,
-        similar to how adults prefer a private bathroom for this function. The act of exposing the
-        bottom for potty training can initially make pooping feel public and uncomfortable.
-    - question: |
-        How does age affect a child's need for privacy during potty training?
-      answer: |
-        As children grow older, they become more self-aware, which typically means they require more privacy.
-        Generally, children under 24 months old need less privacy, while each passing month after that may bring an increased need for seclusion.
-    - question: |
-        What are some ways to provide privacy for a child during potty training?
-      answer: |
-        Privacy can be offered in various ways depending on the child's age. For younger children, you might "forget" something
+      - question: |
+          Why do children need privacy when pooping?
+        answer: |
+          Children need privacy when pooping because it makes them feel comfortable and secure,
+          similar to how adults prefer a private bathroom for this function. The act of exposing the
+          bottom for potty training can initially make pooping feel public and uncomfortable.
+      - question: |
+          How does age affect a child's need for privacy during potty training?
+        answer: |
+          As children grow older, they become more self-aware, which typically means they require more privacy.
+          Generally, children under 24 months old need less privacy, while each passing month after that may bring an increased need for seclusion.
+      - question: |
+          What are some ways to provide privacy for a child during potty training?
+        answer: |
+          Privacy can be offered in various ways depending on the child's age. For younger children, you might "forget" something
 
 document_outline: |
   Book geared for modern parents on potty training, overcoming obstacles and approaching the situation in the best way.
