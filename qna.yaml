@@ -205,3 +205,9 @@ seed_examples:
 
 document_outline: |
   Book geared for modern parents on potty training, overcoming obstacles and approaching the situation in the best way.
+
+document:
+  repo: https://github.com/itewk/etx-ai-training
+  commit: f1b9202aa8cd91107bb540a8d6b9118bb9178a72
+  patterns:
+    - knowledge.md
