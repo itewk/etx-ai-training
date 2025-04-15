@@ -23,7 +23,7 @@ seed_examples:
       - question: |
           What is one reason why a child might not be able to give you signals?
         answer: |
-          All your child has known is a diaper, so it isn't conveivable that they could provide a signal when they don't
+          All your child has known is a diaper, so it isn't conceivable that they could provide a signal when they don't
           know what it is that they should be signaling.
       - question: |
           What is one signal once the child has started potty training?
@@ -46,8 +46,7 @@ seed_examples:
       three	 weeks	 into	 the	 process,	 you	 can	 start	 counting	 on self-initiating.	Until	then,	it	will	be	a
       few	days	of	you	always	prompting.	Then there	will	be	a	few	days	during	which	they	tell	you	maybe	one	or
       two	times	that they	have	to	go.	Then,	every	once	in	a	while,	they	will	sit	on	their	own	and	do their	business.
-      It	will	continue	to	build.	And	in	strange	situations,	you	may	have to	 do	 some	 more	hand	holding.	And	one
-      day	you	will	wake	up	and	not	have potty	training	on	the	brain.	I	swear	to	God,	this	day	will	come.
+      It	will	continue	to	build.	And	in	strange	situations,	you	may	have to	 do	 some	 more	hand	holding.
     questions_and_answers:
       - question: |
           What is an analogy to how the child is learning to potty train?
@@ -85,20 +84,16 @@ seed_examples:
       alf.	If	it	hasn't	naturally	occurred	by	then, you	must	attend to	it .	The	bladder	is	being	developed	at
       this	age,	and	if	it	develops	fully	without the	practice	of	holding	and	consolidating,	those	muscles	will
       atrophy,	and	you will	struggle	indefinitely	with	bedwetting.
-
-      I	can	in	no	way	know	for	certain	what	is	true	for	every	single	child	out	there. I	just	can't.	But	I	can
-      see	trends	in	the	thousands	of	kids	I	have	worked	with.	A very	real	and	serious	trend	I	see	is	that	once
-      a	child	is	past	the	age	of	four,	night training	becomes	near	impossible.
     questions_and_answers:
       - question: |
           What is indicative of a child being ready for night training?
         answer: |
-          A really good indicator that a child is ready for night training is when they stsart staying dry for their nap.  However,
+          A really good indicator that a child is ready for night training is when they start staying dry for their nap.  However,
           this isn't true for every kid.
       - question: |
           What is nap training?
         answer: |
-          There is no such thing as nap training.  You can always try to go witha  diaper for nap, but there is nothing we can do to
+          There is no such thing as nap training.  You can always try to go with a  diaper for nap, but there is nothing we can do to
           assist the child.
       - question: |
           When is it best to ditch all diapers?
